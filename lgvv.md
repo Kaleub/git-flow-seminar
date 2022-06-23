@@ -1,3 +1,2 @@
 # git-flow-seminar
-
-아무거나 수정
+🍎 git-flow-seminar
