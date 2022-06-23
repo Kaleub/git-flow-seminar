@@ -1,4 +1,5 @@
 # git-flow-seminar
 🍎 git-flow-seminar
 
-아무거나 수정
+수정
+
