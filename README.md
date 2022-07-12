@@ -1,6 +1,6 @@
 # 안녕하세요👋  협업을 위해 git-flow 실습을 위한 repository입니다. 
 
-## [쿠링 깃 플로우 전략](https://rldd.tistory.com/450)
+##### 먼저 보면 좋아요:) 👉 [쿠링 깃 플로우 전략](https://rldd.tistory.com/450)
 
 ### 규칙 
  * 세미나를 여는 날짜의 폴더를 생성해주세요 (ex. 20220628)
